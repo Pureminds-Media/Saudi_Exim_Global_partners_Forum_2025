@@ -1,0 +1,229 @@
+{
+  "@@locale": "en",
+  "titleHome": "Home",
+  "@titleHome": {
+    "description": "AppBar presence check label for the Home route"
+  },
+  "titleServices": "Support Services",
+  "@titleServices": {
+    "description": "AppBar presence check label for the Services route"
+  },
+  "titleAgenda": "Forum Agenda",
+  "@titleAgenda": {
+    "description": "AppBar presence check label for the Agenda route"
+  },
+  "titleMenu": "Menu",
+  "@titleMenu": {
+    "description": "AppBar presence check label for the Menu route"
+  },
+  "menuHeader": "Menu",
+  "@menuHeader": {
+    "description": "Header text at the top of the Menu screen"
+  },
+  "menuAgenda": "Forum Agenda",
+  "@menuAgenda": {
+    "description": "Menu item: forum agenda"
+  },
+  "menuLocationDate": "Venue",
+  "@menuLocationDate": {
+    "description": "Menu item: venue and date"
+  },
+  "menuAboutForum": "About the Forum",
+  "@menuAboutForum": {
+    "description": "Menu item: about the forum (image page)"
+  },
+  "menuWhoWeAre": "Who We Are",
+  "@menuWhoWeAre": {
+    "description": "Menu item: who we are (about)"
+  },
+  "menuSupportServices": "Nearby Services",
+  "@menuSupportServices": {
+    "description": "Menu item: support services"
+  },
+  "menuInspiringPartners": "Inspiring Partnerships",
+  "@menuInspiringPartners": {
+    "description": "Menu item: inspiring partners"
+  },
+  "menuForumCopies": "Forum Editions",
+  "@menuForumCopies": {
+    "description": "Menu item: forum editions/copies"
+  },
+  "menuNews": "News",
+  "@menuNews": {
+    "description": "Menu item: news"
+  },
+  "menuSaudi": "Saudi Arabia",
+  "@menuSaudi": {
+    "description": "Menu item: Saudi Arabia section"
+  },
+  "menuSpeakers": "Speakers",
+  "@menuSpeakers": {
+    "description": "Menu item: speakers"
+  },
+  "badgeNew10": "+10 New",
+  "@badgeNew10": {
+    "description": "Badge next to certain menu items indicating new items"
+  },
+  "navHome": "Home",
+  "@navHome": {
+    "description": "Bottom nav label: Home"
+  },
+  "navLocation": "Venue",
+  "@navLocation": {
+    "description": "Bottom nav label: Venue"
+  },
+  "navMenu": "Menu",
+  "@navMenu": {
+    "description": "Bottom nav label: Menu"
+  },
+  "servicesNearby": "Nearby Services",
+  "@servicesNearby": {
+    "description": "Header for the Services pages showing nearby services"
+  },
+  "menuRegisterNow": "Register Now",
+  "@menuRegisterNow": {
+    "description": "Menu item: Register Now"
+  },
+  "cityAllSaudia": "All Saudi Arabia",
+  "@cityAllSaudia": {
+    "description": "Chip label for the 'All Saudia' (no city filter) option"
+  },
+  "agendaDayOne": "Day One",
+  "@agendaDayOne": {
+    "description": "Agenda tab: first day label"
+  },
+  "agendaDayTwo": "Day Two",
+  "@agendaDayTwo": {
+    "description": "Agenda tab: second day label"
+  },
+  "agendaDownload": "Download",
+  "@agendaDownload": {
+    "description": "Download agenda button"
+  },
+  "agendaDownloadSuccess": "Agenda for {day} ready to share.",
+  "@agendaDownloadSuccess": {
+    "description": "Snackbar shown after generating a PDF screenshot for the agenda",
+    "placeholders": {
+      "day": {
+        "type": "String"
+      }
+    }
+  },
+  "agendaDownloadFailed": "Unable to generate the agenda PDF. Please try again.",
+  "@agendaDownloadFailed": {
+    "description": "Snackbar shown if generating the agenda PDF fails"
+  },
+  "agendaTime": "Time",
+  "@agendaTime": {
+    "description": "Label for time gutter in session card"
+  },
+  "agendaSessionTopics": "Session Topics",
+  "@agendaSessionTopics": {
+    "description": "Header above bullet list of session topics"
+  },
+  "agendaDownloadComingSoon": "Download link coming soon",
+  "agendaTitle": "Agenda",
+  "@agendaTitle": {
+    "description": "Header title shown on Agenda page"
+  },
+  "agendaDayOneHeading": "Global Transitions and Opportunities in the Saudi Economy",
+  "@agendaDayOneHeading": {
+    "description": "Day One header under the tabs"
+  },
+  "agendaDayTwoHeading": "Innovation and Finance in the Global South",
+  "@agendaDayTwoHeading": {
+    "description": "Day Two header under the tabs"
+  },
+  "menuOverview": "Overview",
+  "@menuOverview": {
+    "description": "Menu item: overview"
+  },
+  "menuSponsorship": "Sponsorship",
+  "@menuSponsorship": {
+    "description": "Menu item: sponsorship"
+  },
+  "sponsorTypeStrategic": "Strategic Partner",
+  "@sponsorTypeStrategic": {
+    "description": "Sponsors tier label: strategic partner"
+  },
+  "sponsorTypeDiamond": "Diamond Partner",
+  "@sponsorTypeDiamond": {
+    "description": "Sponsors tier label: diamond partner"
+  },
+  "sponsorTypeGold": "Gold Partner",
+  "@sponsorTypeGold": {
+    "description": "Sponsors tier label: gold partner"
+  },
+  "noServicesAvailable": "No services available",
+  "@noServicesAvailable": {
+    "description": "Shown when a category has no services to display"
+  },
+  "serviceInfoTitle": "Service Information",
+  "@serviceInfoTitle": {
+    "description": "Header for the service details information section"
+  },
+  "websiteTitle": "Website",
+  "@websiteTitle": {
+    "description": "Header for the website section"
+  },
+  "locationTitle": "Venue",
+  "@locationTitle": {
+    "description": "Label for the location row"
+  },
+  "notFound": "Not found",
+  "@notFound": {
+    "description": "Generic not-found message for missing content"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Back button label"
+  },
+  "cameraPermissionTitle": "Camera access required",
+  "@cameraPermissionTitle": {
+    "description": "Dialog title when requesting camera permission"
+  },
+  "cameraPermissionRationale": "The registration portal may ask you to scan your badge or identification. Allow camera access so the official Saudi EXIM team can verify your credentials.",
+  "@cameraPermissionRationale": {
+    "description": "Dialog body explaining why camera access is needed"
+  },
+  "cameraPermissionDenied": "Camera access is required to continue registration.",
+  "@cameraPermissionDenied": {
+    "description": "Message shown when the user denies the camera permission"
+  },
+  "cameraPermissionSettings": "Open Settings",
+  "@cameraPermissionSettings": {
+    "description": "Button label to open the device settings"
+  },
+  "cameraPermissionNotNow": "Not now",
+  "@cameraPermissionNotNow": {
+    "description": "Button label to dismiss the camera permission dialog"
+  },
+  "cameraPermissionLaunchFailed": "We couldn't open the registration portal. Please try again.",
+  "@cameraPermissionLaunchFailed": {
+    "description": "Error shown when launchUrl fails"
+  },
+  "googleMaps": "Google Maps",
+  "@googleMaps": {
+    "description": "Header for the maps section"
+  },
+  "openMap": "Open Map",
+  "@openMap": {
+    "description": "Button label to open map"
+  },
+  "noNetworkTitle": "You're offline",
+  "@noNetworkTitle": {
+    "description": "Headline shown on the no-network placeholder"
+  },
+  "noNetworkSubtitle": "Check your connection to continue",
+  "@noNetworkSubtitle": {
+    "description": "Short subtitle displayed under the offline headline"
+  },
+  "noNetworkDescription": "We couldn't reach the forum servers. Please reconnect to Wi‑Fi or mobile data and try again.",
+  "@noNetworkDescription": {
+    "description": "Longer body copy for the offline placeholder"
+  },
+  "noNetworkRetry": "Retry",
+  "@noNetworkRetry": {
+    "description": "Retry button label on the offline placeholder"
+  }
+}

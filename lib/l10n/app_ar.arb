@@ -1,0 +1,230 @@
+{
+  "@@locale": "ar",
+  "titleHome": "الرئيسية",
+  "@titleHome": {
+    "description": "AppBar title for the Home route"
+  },
+  "titleServices": "الخدمات الداعمة",
+  "@titleServices": {
+    "description": "AppBar title for the Services route"
+  },
+  "titleAgenda": "أجندة المنتدى",
+  "@titleAgenda": {
+    "description": "AppBar title for the Agenda route"
+  },
+  "titleMenu": "القائمة",
+  "@titleMenu": {
+    "description": "AppBar title for the Menu route"
+  },
+  "menuHeader": "القائمة",
+  "@menuHeader": {
+    "description": "Header text at the top of the Menu screen"
+  },
+  "menuAgenda": "الأجندة",
+  "@menuAgenda": {
+    "description": "Menu item: forum agenda"
+  },
+  "menuLocationDate": "الموقع",
+  "@menuLocationDate": {
+    "description": "Menu item: venue and date"
+  },
+  "menuAboutForum": "عن المنتدى",
+  "@menuAboutForum": {
+    "description": "Menu item: about the forum"
+  },
+  "menuWhoWeAre": "من نحن",
+  "@menuWhoWeAre": {
+    "description": "Menu item: who we are"
+  },
+  "menuSupportServices": "الخدمات المساعدة",
+  "@menuSupportServices": {
+    "description": "Menu item: support services"
+  },
+  "menuInspiringPartners": "شراكات ملهمة",
+  "@menuInspiringPartners": {
+    "description": "Menu item: inspiring partners"
+  },
+  "menuForumCopies": "إصدارات المنتدى",
+  "@menuForumCopies": {
+    "description": "Menu item: forum editions/copies"
+  },
+  "menuNews": "الأخبار",
+  "@menuNews": {
+    "description": "Menu item: news"
+  },
+  "menuSaudi": "المملكة العربية السعودية",
+  "@menuSaudi": {
+    "description": "Menu item: Saudi Arabia section"
+  },
+  "menuSpeakers": "المتحدثين",
+  "@menuSpeakers": {
+    "description": "Menu item: speakers"
+  },
+  "badgeNew10": "+10 جديد",
+  "@badgeNew10": {
+    "description": "Badge indicating new items"
+  },
+  "navHome": "الرئيسية",
+  "@navHome": {
+    "description": "Bottom nav label: Home"
+  },
+  "navLocation": "الموقع",
+  "@navLocation": {
+    "description": "Bottom nav label: Venue"
+  },
+  "navMenu": "القائمة",
+  "@navMenu": {
+    "description": "Bottom nav label: Menu"
+  },
+  "agendaDayOne": "اليوم الاول",
+  "@agendaDayOne": {
+    "description": "Agenda tab: day one label"
+  },
+  "agendaDayTwo": "اليوم الثاني",
+  "@agendaDayTwo": {
+    "description": "Agenda tab: day two label"
+  },
+  "agendaDownload": "تحميل",
+  "@agendaDownload": {
+    "description": "Download agenda button"
+  },
+  "agendaDownloadSuccess": "أصبحت أجندة {day} جاهزة للمشاركة.",
+  "@agendaDownloadSuccess": {
+    "description": "رسالة تظهر بعد إنشاء ملف PDF للأجندة",
+    "placeholders": {
+      "day": {
+        "type": "String"
+      }
+    }
+  },
+  "agendaDownloadFailed": "تعذر إنشاء ملف الأجندة. يرجى المحاولة مرة أخرى.",
+  "@agendaDownloadFailed": {
+    "description": "رسالة تظهر عند فشل إنشاء ملف الأجندة"
+  },
+  "agendaTime": "الوقت",
+  "@agendaTime": {
+    "description": "Time label in session card"
+  },
+  "agendaSessionTopics": "محاور الجلسة",
+  "@agendaSessionTopics": {
+    "description": "Header above bullet list of session topics"
+  },
+  "agendaDownloadComingSoon": "رابط التحميل سيتوفر قريبًا",
+  "@agendaDownloadComingSoon": {},
+  "agendaTitle": "الأجندة",
+  "@agendaTitle": {
+    "description": "عنوان رئيسي داخل صفحة الأجندة"
+  },
+  "agendaDayOneHeading": "التحولات العالمية وفرص الاقتصاد السعودي",
+  "@agendaDayOneHeading": {
+    "description": "عنوان اليوم الأول تحت أزرار الأيام"
+  },
+  "agendaDayTwoHeading": "الابتكار والتمويل في الجنوب العالمي",
+  "@agendaDayTwoHeading": {
+    "description": "عنوان اليوم الثاني تحت أزرار الأيام"
+  },
+  "menuOverview": "عن المنتدى",
+  "@menuOverview": {
+    "description": "عنصر قائمة: نظرة عامة"
+  },
+  "menuSponsorship": "الرعايات",
+  "@menuSponsorship": {
+    "description": "عنصر قائمة: الرعايات"
+  },
+  "sponsorTypeStrategic": "الشريك الإستراتيجي",
+  "@sponsorTypeStrategic": {
+    "description": "تصنيف الرعاة: الشريك الإستراتيجي"
+  },
+  "sponsorTypeDiamond": "الشريك الماسي",
+  "@sponsorTypeDiamond": {
+    "description": "تصنيف الرعاة: الشريك الماسي"
+  },
+  "sponsorTypeGold": "الشريك الذهبي",
+  "@sponsorTypeGold": {
+    "description": "تصنيف الرعاة: الشريك الذهبي"
+  },
+  "servicesNearby": "الخدمات القريبة",
+  "@servicesNearby": {
+    "description": "Header for the Services pages showing nearby services"
+  },
+  "menuRegisterNow": "سجل الآن",
+  "@menuRegisterNow": {
+    "description": "Menu item: Register Now"
+  },
+  "cityAllSaudia": "كل السعودية",
+  "@cityAllSaudia": {
+    "description": "Chip label for the 'All Saudia' (no city filter) option"
+  },
+  "noServicesAvailable": "لا توجد خدمات متاحة",
+  "@noServicesAvailable": {
+    "description": "Shown when a category has no services to display"
+  },
+  "serviceInfoTitle": "معلومات عن الخدمة",
+  "@serviceInfoTitle": {
+    "description": "Header for the service details information section"
+  },
+  "websiteTitle": "الموقع",
+  "@websiteTitle": {
+    "description": "Header for the website section"
+  },
+  "locationTitle": "الموقع",
+  "@locationTitle": {
+    "description": "Label for the location row"
+  },
+  "notFound": "غير موجود",
+  "@notFound": {
+    "description": "Generic not-found message for missing content"
+  },
+  "back": "رجوع",
+  "@back": {
+    "description": "Back button label"
+  },
+  "cameraPermissionTitle": "السماح باستخدام الكاميرا",
+  "@cameraPermissionTitle": {
+    "description": "Dialog title when requesting camera permission"
+  },
+  "cameraPermissionRationale": "قد تطلب منك بوابة التسجيل مسح الشارة أو الهوية. يرجى السماح بالوصول إلى الكاميرا حتى يتمكن فريق بنك التصدير والاستيراد السعودي من التحقق من بياناتك.",
+  "@cameraPermissionRationale": {
+    "description": "Dialog body explaining why camera access is needed"
+  },
+  "cameraPermissionDenied": "يتطلب إتمام التسجيل منح صلاحية الكاميرا.",
+  "@cameraPermissionDenied": {
+    "description": "Message shown when the user denies the camera permission"
+  },
+  "cameraPermissionSettings": "فتح الإعدادات",
+  "@cameraPermissionSettings": {
+    "description": "Button label to open the device settings"
+  },
+  "cameraPermissionNotNow": "لاحقًا",
+  "@cameraPermissionNotNow": {
+    "description": "Button label to dismiss the camera permission dialog"
+  },
+  "cameraPermissionLaunchFailed": "تعذر فتح بوابة التسجيل. يرجى المحاولة مرة أخرى.",
+  "@cameraPermissionLaunchFailed": {
+    "description": "Error shown when launchUrl fails"
+  },
+  "googleMaps": "خرائط Google",
+  "@googleMaps": {
+    "description": "Header for the maps section"
+  },
+  "openMap": "فتح الخريطة",
+  "@openMap": {
+    "description": "Button label to open map"
+  },
+  "noNetworkTitle": "أنت غير متصل بالإنترنت",
+  "@noNetworkTitle": {
+    "description": "العنوان الرئيسي المعروض عند انقطاع الاتصال"
+  },
+  "noNetworkSubtitle": "تحقق من الاتصال للمتابعة",
+  "@noNetworkSubtitle": {
+    "description": "سطر فرعي قصير أسفل العنوان الرئيسي"
+  },
+  "noNetworkDescription": "تعذر الوصول إلى خوادم المنتدى. يرجى إعادة الاتصال بشبكة Wi-Fi أو بيانات الهاتف ثم المحاولة مجددًا.",
+  "@noNetworkDescription": {
+    "description": "نص توضيحي أطول لواجهة عدم وجود اتصال"
+  },
+  "noNetworkRetry": "إعادة المحاولة",
+  "@noNetworkRetry": {
+    "description": "زر إعادة المحاولة في واجهة عدم وجود اتصال"
+  }
+}
